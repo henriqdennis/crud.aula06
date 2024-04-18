@@ -9,4 +9,4 @@ Este repositório contém funções JavaScript para executar operações CRUD (C
 
 ## Utilização
 
-Para utilizar essas funcionalidades, importe o arquivo `operacoesCRUD.js` em seu projeto JavaScript e utilize as funções conforme necessário.
+Para utilizar essas funcionalidades, importe o arquivo `atividade.js` em seu projeto JavaScript e utilize as funções conforme necessário.
